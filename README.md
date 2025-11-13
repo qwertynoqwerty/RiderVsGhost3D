@@ -1,12 +1,14 @@
-# 🏎 RiderVsGhost3D
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Unity-2020.3%2B-blue"/>
-  <img src="https://img.shields.io/badge/License-MIT-green"/>
-  <img src="https://img.shields.io/badge/Platform-PC-lightgrey"/>
-</p>
+# 🏎 RiderVsGhost
 
-**RiderVsGhost3D** — тестовое задание от работодателя.  
+![Unity](https://img.shields.io/badge/Unity-6.0%2B-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Platform](https://img.shields.io/badge/Platform-PC-lightgrey.svg)
+
+</div>
+
+**RiderVsGhost** — тестовое задание от работодателя.  
 Игрок проходит трассу дважды: в первом заезде игра записывает движение машины,  
 во втором — появляется «призрак», который повторяет путь игрока кадр-в-кадр.  
 Проект выполнен на Unity с упором на корректную физику, точное повторение траектории и чистую архитектуру.
