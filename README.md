@@ -45,7 +45,7 @@
 1. Склонируйте репозиторий:
 
 ```bash
-git clone https://github.com/destrosez/RiderVsGhost.git
+git clone https://github.com/qwertynoqwerty/RiderVsGhost3D.git
 ```
 
 2. Откройте проект в **Unity 6.0+**.
